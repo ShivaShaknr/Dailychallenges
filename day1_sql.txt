@@ -1,0 +1,3 @@
+select id,name,bloodgroup from donor where bloodgroup!='AB+' order by name asc;
+
+
